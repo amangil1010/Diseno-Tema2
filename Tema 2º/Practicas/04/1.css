@@ -1,0 +1,13 @@
+.h1 {
+    font-family: Arial;
+    font-weight: 900;
+    color:#00ff08;
+    background-color: royalblue;
+}
+
+p.rojo {
+    font-family: Arial;
+    font-weight: 900;
+    color:#0400ff;
+    background-color: #ff0000;
+}

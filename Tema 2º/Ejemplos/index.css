@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(16, 235, 104);
+    
+}
+
+p {
+    font: oblique bold 120% cursive;
+    font-size: 16pt;
+    background-color: blue;
+    font-weight: 900;
+}

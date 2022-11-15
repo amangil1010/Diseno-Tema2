@@ -1,0 +1,17 @@
+h1, h2, h3 {
+    font-family: Arial;
+    font-weight: 900;
+    color:#ff6347;
+}
+
+h1 {
+    font-size: 150px;
+}
+
+h2 {
+    font-size: 750%;
+}
+
+h3 {
+    font-size: 5em;
+}
